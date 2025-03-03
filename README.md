@@ -33,15 +33,17 @@ The Gaming Room is a client that wanted to expand their Android-based game, Draw
 
 The approach to designing software involved:
 
-1. Analyzing Requirements – Identifying business and technical constraints.
+1. Analyzing Requirements – Identifying business and technical constraints to understand what the system needs to accomplish.
 
-2. Using Design Patterns – Implementing Singleton and Iterator for better structure.
+2. Using Design Patterns – Implementing Singleton and Iterator for better structure, reducing redundancy, and ensuring efficient resource management.
 
-3. Evaluating Platforms – Comparing Linux, Windows, and Mac for the best fit.
+3. Evaluating Platforms – Comparing Linux, Windows, and Mac for the best fit, considering factors like scalability, cost, and security.
 
-4. Security Measures – Using encryption, authentication, and firewalls.
+4. Security Measures – Using encryption, authentication, and firewalls to protect user data and prevent unauthorized access.
 
-5. Cloud-Based Storage – Ensuring scalability with AWS or Google Cloud.
+5. Cloud-Based Storage – Ensuring scalability with AWS or Google Cloud to handle increasing numbers of players and game data efficiently.
+
+6. User Experience Deisgn - Focusing on the UI/UX to make the game accessible and enjoyable across different devices.
 
 **Future Strategies**
 
