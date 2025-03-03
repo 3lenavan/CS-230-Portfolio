@@ -15,7 +15,7 @@ The Gaming Room is a client that wanted to expand their Android-based game, Draw
 
 Strengths in Developing the Documentation
 
--One strength in developing this documentation was the clear organization of requirements and solutions. The design document effectively outlined business and technical needs, making it easier to implement. Additionally, the evaluation of different operating systems helped in making informed recommendations.
+- One strength in developing this documentation was the clear organization of requirements and solutions. The design document effectively outlined business and technical needs, making it easier to implement. Additionally, the evaluation of different operating systems helped in making informed recommendations.
 
 Benefits of the Design Document for Development
 
